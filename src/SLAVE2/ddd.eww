@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Master kodu\master.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\slave\Slave.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\slave2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
